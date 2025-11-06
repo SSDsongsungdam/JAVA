@@ -40,3 +40,4 @@ public class OpenChallenge {
         return sb.toString();
     }
 }
+
